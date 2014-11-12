@@ -1,4 +1,4 @@
-
+/* Some test cases. */
 edge(a,b).
 edge(a,c).
 edge(b,d).
